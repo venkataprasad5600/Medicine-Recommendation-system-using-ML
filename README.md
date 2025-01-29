@@ -75,5 +75,5 @@ Implement a chatbot for interactive disease prediction.
 Add multilingual support for wider accessibility.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the # MIT  License.
 
