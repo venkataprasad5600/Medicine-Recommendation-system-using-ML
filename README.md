@@ -1,9 +1,9 @@
-# 🚀 Medicine-Recommendation-system-using-ML
+# 📌 Medicine-Recommendation-system-using-ML
 
-# Overview
+# 📝Overview
 This project aims to develop a Medicine Recommendation System that predicts diseases based on user-provided symptoms and provides:
 
-# description of the detected disease.
+# 🔎 description of the detected disease.
 Recommended medicines.
 Diet plans.
 Workout suggestions.
@@ -31,7 +31,7 @@ Frontend: HTML, CSS, JavaScript
 # Accuracy
 The implemented machine learning models achieved a 100% accuracy for disease prediction on the dataset.
 
-# Project Architecture
+#  Project Architecture
 Input Symptoms: Users input their symptoms through the web application.
 Disease Prediction: The machine learning model predicts the disease based on the input.
 Recommendations:
@@ -41,7 +41,7 @@ Precautions for health management.
 Frontend & Backend Integration: The system is built using Flask for backend processing and HTML/CSS/JS for the user interface.
 
 
-# Datasets
+#  🏷️ Datasets
 The dataset contains details about symptoms and corresponding diseases,diet, medicine, workout and precautions. It was preprocessed and split into training and testing sets to build accurate machine learning models.
 
 # Model Training
@@ -68,7 +68,7 @@ Dietary plans, workout routines, and precautions.
 
 
 
-# Future Improvements
+# 🚀 Future Improvements
 Expand the dataset to include more diseases and symptoms.
 Enhance the user interface for a better user experience.
 Implement a chatbot for interactive disease prediction.
