@@ -1,4 +1,4 @@
-# Medicine-Recommendation-system-using-ML
+# 🚀 Medicine-Recommendation-system-using-ML
 
 # Overview
 This project aims to develop a Medicine Recommendation System that predicts diseases based on user-provided symptoms and provides:
@@ -16,7 +16,7 @@ Medicine recommendations for the diagnosed disease.
 Dietary suggestions for a healthier lifestyle.
 Workout plans tailored to specific conditions.
 Preventive measures and precautions.
-# Technologies Used
+# 💻 Technologies Used
 Machine Learning Algorithms:
 Support Vector Classifier (SVC)
 Random Forest Classifier
